@@ -1,6 +1,6 @@
 ## Incomplete Proof
 ### by John Chu
-[回到主页](https://boheme130.github.io/Fiction.git.io/)
+[回到主页](https://boheme130.github.io/Fiction.git.io/) <br>
 ![avatar](https://imgs.xkcd.com/comics/travelling_salesman_problem.png)
 <br/>
 <br/>
